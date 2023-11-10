@@ -4,7 +4,7 @@
 * Improve your Skill
 * Improve your GitHub
 * Improve your Kaggle
-* Take part in Kaggle challenges
+* Take part in Kaggle Competition
 * Take part in international Datathons
 * Build your Portfolio
 
