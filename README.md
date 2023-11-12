@@ -1,6 +1,9 @@
 # AI-Discussion-Community
 
-## Tasks: 
+## Access:
+* [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+
+## Your GOAL: 
 * Improve your Skill
 * Improve your GitHub
 * Improve your Kaggle
