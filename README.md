@@ -2,6 +2,9 @@
 
 ## Access:
 * [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+* [Python Tutorial With Google Colab](https://notebook.community/cs231n/cs231n.github.io/python-colab)
+* [Complete Machine Learning | Explanation](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+* [Complete Machine Learning | Code](https://github.com/codebasics/py/tree/master/ML)
 
 ## Your GOAL: 
 * Improve your Skill
