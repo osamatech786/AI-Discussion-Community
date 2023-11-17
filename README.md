@@ -26,7 +26,4 @@ WhatsApp Links! [Only Passionated Learners Please] :
 - https://chat.whatsapp.com/IAaGWlc39cx18AsJvyKdOq
 - https://whatsapp.com/channel/0029VaDamxh3bbUx30cNrY0n
 -------------
-Some Quotes:
-
-- Things take time and you'll have to invest the time for your better future. Choice is yours. 
 
