@@ -41,7 +41,7 @@ Feature selection
 [Access Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
 
 ## Your GOAL: 
-* Improve your Skill (Roadmap)
+* Improve your Skills (Roadmap)
 * Improve your GitHub (Projects)
 * Improve your Kaggle (Your notes)
 * Take part in Kaggle Competition
