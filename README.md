@@ -21,6 +21,16 @@
 * [Matplotlib](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
 * [Visualize missing values, outliers, skewed data and correlations](https://www.kaggle.com/code/jkanthony/data-exploration-and-visualization-guide-part-1)
 
+<!-- 
+Data preprocessing
+   Basic data type, dattime, 
+   Duplicate
+   Outliers (omar)
+   Null (omar)
+data analysis 
+Feature extraction
+Feature selection
+ -->
 
 ### Machine Learning
 * [Complete Machine Learning | Explanation](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
