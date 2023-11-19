@@ -9,11 +9,11 @@
 * [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 
 ### Python: 
-* [Python Basics](https://github.com/osamatech786/AI-Discussion-Community/blob/1e924269454e822a62aa78fd4d822882a4749ac5/resource/1%20Python_basics.ipynb)
+* [Python Basics](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/1%20Python_basics.ipynb)
 * [Python Tutorial With Google Colab](https://notebook.community/cs231n/cs231n.github.io/python-colab)
 
 ### Pandas: 
-* [Pandas Basics](https://github.com/osamatech786/AI-Discussion-Community/blob/1e924269454e822a62aa78fd4d822882a4749ac5/resource/2%20Pandas_basics.ipynb)
+* [Pandas Basics](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/2%20Pandas_basics.ipynb)
 
 ### Visualization
 
