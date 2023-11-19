@@ -39,7 +39,7 @@ Feature selection
 
 ## Datascience Roadmap
 * [Watch Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
-* [Access Roadmap](link)
+* [Access Roadmap](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/ds_roadmap.pdf)
 
 ## Your GOAL: 
 * Improve your Skills (Roadmap)
