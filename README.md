@@ -38,7 +38,8 @@ Feature selection
 * [Complete Machine Learning | Code](https://github.com/codebasics/py/tree/master/ML)
 
 ## Datascience Roadmap
-[Access Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
+* [Watch Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
+* [Access Roadmap](link)
 
 ## Your GOAL: 
 * Improve your Skills (Roadmap)
