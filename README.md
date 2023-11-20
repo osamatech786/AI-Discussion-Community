@@ -1,5 +1,13 @@
 # AI-Discussion-Community
 
+## Your GOAL: 
+* Improve your Skills (Roadmap)
+* Improve your GitHub (Projects)
+* Improve your Kaggle (Your notes)
+* Take part in Kaggle Competition
+* Take part in international Datathons
+* Build your Portfolio
+
 ## Level 1 :
 
 ### GitHub Desktop:
@@ -43,13 +51,7 @@ Feature selection
 * [Watch Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
 * [Access Roadmap](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/ds_roadmap.pdf)
 
-## Your GOAL: 
-* Improve your Skills (Roadmap)
-* Improve your GitHub (Projects)
-* Improve your Kaggle (Your notes)
-* Take part in Kaggle Competition
-* Take part in international Datathons
-* Build your Portfolio
+
 
 -------------
 WhatsApp [Only Passionated Learners Please] :  
