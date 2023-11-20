@@ -30,13 +30,15 @@
 * [Matplotlib](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
 * [Visualize missing values, outliers, skewed data and correlations](https://www.kaggle.com/code/jkanthony/data-exploration-and-visualization-guide-part-1)
 
+### Null data imputation
+* [Tutorial](https://app.datacamp.com/workspace/w/89e0778e-aa9c-4b4a-8366-6ba0ca780845)
+
 ### Pending Work (see markdown comment)
 <!-- 
 Data preprocessing
    Basic data type, dattime, 
    Duplicate
    Outliers (omar)
-   Null (omar)
 data analysis 
 Feature extraction
 Feature selection
