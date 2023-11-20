@@ -1,6 +1,7 @@
 # AI-Discussion-Community
 
 ## Your GOAL: 
+* ANNOUNCE EVERYTHING ON LINKEDIN
 * Improve your Skills (Roadmap)
 * Improve your GitHub (Projects)
 * Improve your Kaggle (Your notes)
