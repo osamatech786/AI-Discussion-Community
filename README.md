@@ -52,14 +52,10 @@ Feature selection
 * Build your Portfolio
 
 -------------
-YouTube :  
+WhatsApp [Only Passionated Learners Please] :  
+- https://chat.whatsapp.com/JPEcs9oBN9Y4EnEaE0JQCL
 
-- https://www.youtube.com/@aidiscussioncommunity
-
-WhatsApp Links! [Only Passionated Learners Please] :  
-
-- https://chat.whatsapp.com/BlSLPFnxFL7BOSzrnoYhhd
-- https://chat.whatsapp.com/IAaGWlc39cx18AsJvyKdOq
-- https://whatsapp.com/channel/0029VaDamxh3bbUx30cNrY0n
+<!-- YouTube :  
+- https://www.youtube.com/@aidiscussioncommunity -->
 -------------
 
