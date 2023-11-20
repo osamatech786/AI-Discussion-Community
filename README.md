@@ -1,6 +1,6 @@
 # AI-Discussion-Community
 
-## Access:
+## Level 1 :
 
 ### GitHub Desktop:
 * [GitHub Desktop Tutorial for Beginners](https://www.youtube.com/watch?v=MaqVvXv6zrU&t=15s&ab_channel=CameronMcKenzie)
@@ -37,7 +37,9 @@ Feature selection
 * [Complete Machine Learning | Explanation](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 * [Complete Machine Learning | Code](https://github.com/codebasics/py/tree/master/ML)
 
-## Datascience Roadmap
+## Level 2 :
+
+### Datascience Roadmap
 * [Watch Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
 * [Access Roadmap](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/ds_roadmap.pdf)
 
