@@ -54,8 +54,11 @@ Feature selection
 
 
 -------------
-WhatsApp [Only Passionated Learners Please] :  
+WhatsApp [Only Passionated Learners Please]:  
 - https://chat.whatsapp.com/JPEcs9oBN9Y4EnEaE0JQCL
+
+Discord:
+- https://discord.gg/tma8kqFU
 
 <!-- YouTube :  
 - https://www.youtube.com/@aidiscussioncommunity -->
