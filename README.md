@@ -67,3 +67,12 @@ Discord:
 - https://www.youtube.com/@aidiscussioncommunity -->
 -------------
 
+Master your career in AI with these top-notch resources:
+
+1. Dive into codebasics for a solid foundation.
+
+2. Elevate your skills with professional certifications from deeplearning.ai.
+
+3. Fine-tune your expertise at Machine Learning Mastery.
+
+🚀 Elevate your career in the world of AI! 🤖 hashtag#AICareer hashtag#SkillsMastery
