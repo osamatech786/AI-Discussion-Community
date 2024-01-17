@@ -17,8 +17,13 @@
 ## Level 2 :
 
 ### Data Science Roadmap
-* [Watch Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
-* [Access Roadmap](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/ds_roadmap.pdf)
+* [Watch Roadmap 2024](https://www.youtube.com/watch?v=PFPt6PQNslE)
+* [Access Roadmap 2024](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/Data%20Science%20Roadmap%202024.pdf)
+* [LinkedIn Checklist](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/LinkedIn%20Checklist.pdf)
+* [Resume Checklist](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/Resume%20Checklist.pdf)
+* .
+* [Watch Roadmap 2023](https://www.youtube.com/watch?v=eaFaD_IBYW4)
+* [Access Roadmap 2023](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/ds_roadmap.pdf)
 
 ## Level 3 :
 
