@@ -75,4 +75,4 @@ Master your career in AI with these top-notch resources:
 
 3. Fine-tune your expertise at Machine Learning Mastery.
 
-🚀 Elevate your career in the world of AI! 🤖 hashtag#AICareer hashtag#SkillsMastery
+🚀 Elevate your career in the world of AI! 🤖 #AI-Discussion-Community #AICareer #SkillsMastery
