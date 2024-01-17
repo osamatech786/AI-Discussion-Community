@@ -54,6 +54,11 @@ Feature selection
 * [Watch Roadmap](https://www.youtube.com/watch?v=eaFaD_IBYW4)
 * [Access Roadmap](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/ds_roadmap.pdf)
 
+## Level 3 :
+
+### Projects & GAN
+* [Must do these 10](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/Top_Data_Science_Projects_1705476173.pdf)
+* [Applied GAN for Beginners](https://github.com/osamatech786/AI-Discussion-Community/blob/main/resource/gen_ai_1703257298.pdf)
 
 
 -------------
